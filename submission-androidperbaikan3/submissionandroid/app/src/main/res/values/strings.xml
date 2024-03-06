@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">DATA VAPE</string>
+    <string name="datavape">NAMA VAPE</string>
+    <string name="deskripsi">DESKRIPSI</string>
+    <string name="about">About me</string>
+    <string name="nama">Dwi Cahyo Nugroho</string>
+    <string name="email">dwicahyonugroho782@gmail.com</string>
+
+
+    <string-array name="datanama">
+        <item>CENTAURUS M200</item>
+        <item>CENTAURUS B80</item>
+        <item>HOTCIG R234</item>
+        <item>HOTCIG R233</item>
+        <item>DOTMOD BOX 200W</item>
+        <item>DOT AIO</item>
+        <item>HEXOHM 0 FRAME</item>
+        <item>CENTAURUS DNA 250</item>
+        <item>PULSE AIO V2</item>
+        <item>BILLET BOX</item>
+    </string-array>
+
+
+    <string-array name="desklengkap">
+        <item>CENTAURUS M200 adalah vape mod yang kuat dan stylish, terkenal dengan ketahanannya dan performanya. Memiliki output maksimal 200 watt, mod ini dapat menangani bahkan coil dan atomizer yang paling demanding. Dengan temperature control suite dan berbagai mode vaping, mod ini cocok untuk vapers pemula dan berpengalaman. M200 hadir dalam berbagai pilihan resin yang menarik, menjadikannya tambahan yang menarik untuk koleksi vape apa pun.</item>
+        <item>Jika Anda mencari pilihan yang lebih ringkas dan portabel, CENTAURUS B80 adalah pilihan yang tepat. Meskipun ukurannya lebih kecil, mod ini masih memberikan pukulan dengan output maksimal 80 watt. B80 memiliki antarmuka yang user-friendly dan berbagai mode vaping, membuatnya sempurna untuk gaya vaping MTL dan DTL. Desainnya yang ramping dan pilihan warna yang beragam menjadikannya pilihan populer di kalangan vapers yang menghargai gaya dan fungsionalitas.</item>
+        <item>HOTCIG R234 adalah atomizer rebuildable yang terkenal dengan produksi rasa yang luar biasa dan pengalaman vaping yang halus. Desain postless decknya membuat membangun coil mudah, bahkan untuk pemula. R234 menawarkan berbagai pilihan airflow, memungkinkan Anda untuk menyesuaikan pengalaman vaping sesuai keinginan Anda. Dengan desain top-fill dan konstruksi anti bocor, ini adalah pilihan yang nyaman dan andal untuk vaping sehari-hari.</item>
+        <item>Mirip dengan R234, HOTCIG R233 adalah atomizer rebuildable lain yang terkenal dengan rasa dan performanya yang luar biasa. Ini memiliki desain dual-coil deck, memungkinkan Anda untuk bereksperimen dengan konfigurasi coil dan gaya vaping yang berbeda. R233 hadir dengan berbagai pilihan airflow dan desain top-fill untuk menambah kenyamanan. Konstruksi anti bocornya memastikan vaping bebas khawatir sepanjang hari.</item>
+        <item>DOTMOD BOX 200W adalah vape mod kelas atas yang dibuat untuk kekuatan dan keserbagunaan. Menawarkan output maksimal 200 watt dan fitur vaping canggih, mod ini melayani vapers berpengalaman yang menginginkan yang terbaik. BOX 200W membanggakan chip DNA 250, memberikan akurasi luar biasa dan kontrol suhu yang presisi. Konstruksinya yang tahan lama dan desain ergonomis menjadikannya pendamping yang andal dan nyaman untuk vaping sehari-hari.</item>
+        <item>Bagi mereka yang mencari opsi yang lebih portabel dan mudah digunakan, DOT AOI adalah pilihan yang tepat. Perangkat all-in-one ini menggabungkan baterai built-in dengan tangki pod yang dapat diisi ulang, membuatnya sempurna untuk vaping saat bepergian. DOT AOI menawarkan watt yang dapat disesuaikan dan berbagai pilihan coil, memungkinkan Anda untuk mempersonalisasi pengalaman vaping Anda. Desain anti bocor dan pengoperasian yang sederhana membuatnya ideal untuk vapers baru dan berpengalaman.</item>
+        <item>HEXOHM 0 FRAME adalah squonk mod kelas atas yang terkenal dengan desain inovatif dan performanya yang luar biasa. Mod bottom-feeder ini memiliki desain frame yang unik dan integrasi botol squonk, memberikan pengisian e-liquid yang efisien ke atomizer Anda. 0 FRAME kompatibel dengan berbagai atomizer dan squonk setup, menjadikannya pilihan yang serbaguna untuk vapers berpengalaman yang menyukai tinkering dan customization.</item>
+        <item>CENTAURUS DNA 250 adalah vape mod yang kuat dan penuh fitur yang dirancang untuk vapers yang demanding. Dilengkapi dengan chip DNA 250 yang canggih, mod ini menawarkan kontrol suhu yang presisi, berbagai mode vaping, dan pilihan kustomisasi yang ekstensif. CENTAURUS DNA 250 membanggakan konstruksi yang tahan lama dan desain yang nyaman, menjadikannya pilihan yang andal untuk penggunaan sehari-hari.</item>
+        <item>PULSE AIO V2 adalah pod system yang serbaguna dan mudah digunakan yang melayani gaya vaping MTL dan DTL. Ini memiliki tangki pod yang dapat diisi ulang dengan aliran udara yang dapat disesuaikan dan berbagai pilihan coil. PULSE AIO V2 menawarkan berbagai pengaturan watt dan desain anti bocor untuk vaping bebas kekacauan. Ukurannya yang ringkas dan pengoperasian yang sederhana membuatnya sempurna untuk vapers pemula dan berpengalaman.</item>
+        <item>BILLET BOX adalah boro box vape system kelas atas dan dapat disesuaikan. Perangkat modular ini memungkinkan Anda untuk menggabungkan tangki boro, bridge, dan mod yang berbeda untuk membuat pengaturan vaping yang dipersonalisasi. BILLET BOX menawarkan rasa dan performa yang luar biasa, menjadikannya favorit di kalangan vapers berpengalaman yang menghargai kustomisasi dan pengerjaan</item>
+    </string-array>
+
+
+    <string-array name="desksingkat">
+        <item>Mod vape dengan desain ergonomis dan kemampuan daya 200W, dilengkapi dengan berbagai fitur dan kontrol yang memungkinkan pengguna untuk menyesuaikan pengalaman vaping mereka.</item>
+        <item>Varian lain dari Centaurus, mungkin dengan daya yang lebih rendah (80W) dan fitur yang disesuaikan.</item>
+        <item>Mod vape dari merek Hotcig dengan kemampuan daya hingga 234W, mungkin memiliki berbagai fitur seperti mode pengaturan suhu dan lainnya.</item>
+        <item>Varian lain dari Hotcig, mungkin dengan daya yang sedikit lebih rendah (233W) dan fitur yang serupa dengan model R234.</item>
+        <item>Mod vape dari Dotmod dengan daya 200W, dikenal karena desain yang elegan dan kualitas konstruksi yang baik.</item>
+        <item>Alat vape serbaguna dari Dotmod yang menyatukan fitur modifikasi dan pengisian e-liquid dalam satu perangkat.</item>
+        <item>Mod vape dengan desain unik dari Hexohm, mungkin memiliki daya yang tinggi dan kemampuan untuk menyesuaikan voltase.</item>
+        <item>Versi lain dari Centaurus yang menggunakan chip DNA 250, dikenal karena akurasi pengaturan daya dan fitur pengendalian suhu yang canggih.</item>
+        <item>Versi terbaru dari Pulse AIO, perangkat serbaguna yang dapat digunakan dengan coil yang berbeda dan memiliki kapasitas tangki e-liquid yang cukup besar.</item>
+        <item>Perangkat vape yang dirancang untuk menjadi kompak dan portabel, biasanya dilengkapi dengan berbagai fitur dan kemampuan untuk menggunakan berbagai jenis coil.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/centaurus</item>
+        <item>@drawable/b80</item>
+        <item>@drawable/r234</item>
+        <item>@drawable/r233</item>
+        <item>@drawable/dotmod</item>
+        <item>@drawable/dotaio</item>
+        <item>@drawable/hexohm</item>
+        <item>@drawable/dna</item>
+        <item>@drawable/pulse</item>
+        <item>@drawable/billet</item>
+    </integer-array>
+</resources>
